@@ -1,0 +1,6 @@
+.env
+
+venv/
+
+weather.json
+forecast.json
